@@ -1,0 +1,25 @@
+/*package clockGame;
+import javax.swing.JFrame;
+
+public class Main {
+    static Resources loadResources = new Resources();
+
+    public Main() {
+    }
+
+
+
+    public static void main(String[] args) {
+        JFrame frame = new JFrame("AlarmClock.Alarm Challenge!!!");
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        GameScreen gameInstance = new GameScreen();
+        frame.setContentPane(gameInstance);
+        frame.setResizable(false);
+        frame.pack();
+        frame.setVisible(true);
+       // frame.add(gameInstance);
+        frame.setLocationRelativeTo(null);
+    }
+}
+
+ */
