@@ -4,7 +4,7 @@
 
 How to Compile and Run
 
-Go inside the src folder and compile all the files javac */*.java Use java Main to run the program
+Compile all the files javac */*.java Use java Main to run the program
 
 How To Use
 
