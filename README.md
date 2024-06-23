@@ -1,5 +1,7 @@
 # Smart-Alarm-Clock
 
+This is our final group project of the Intro To Computer Science II class. It is a smart alarm clock, which only switches off once you prove to it that you're full awake i.e. by playing a small game, either Flappy Clock (a version of flappy bird), Wordle, or doing some Math Problems. 
+
 **Instructions**
 
 How to Compile and Run
